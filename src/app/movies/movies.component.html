@@ -1,0 +1,38 @@
+<app-infinite-scroll (scrolled)="onScroll()">
+<app-filter></app-filter>
+<div class="container">
+  <div class="row header">
+    <div class="col name" (click)="sort('name')">
+      Name
+      <i class="arrow up" [class.selected]="getSortBy('name') === 'up'"></i>
+      <i class="arrow down" [class.selected]="getSortBy('name') === 'down'"></i>
+    </div>
+    <div class="col">Season</div>
+    <div class="col">Network</div>
+    <div class="col premiere" (click)="sort('premiere')">
+      Premiere
+      <i class="arrow up" [class.selected]="getSortBy('premiere') === 'up'"></i>
+      <i class="arrow down" [class.selected]="getSortBy('premiere') === 'down'"></i>
+    </div>
+  </div>
+  <div class="row" *ngFor="let movie of movies">
+    <div class="col name">
+      {{ movie.name }}
+      <div class="genres">
+        <div *ngFor="let genre of movie.genres" attr.data-genre="{{ genre }}">
+          {{ genre }}
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      {{ movie.season }}
+    </div>
+    <div class="col">
+      {{ movie.network }}
+    </div>
+    <div class="col">
+      {{ movie.premiere }}
+    </div>
+  </div>
+</div>
+</app-infinite-scroll>

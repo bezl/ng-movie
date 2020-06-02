@@ -1,0 +1,89 @@
+:host {
+  flex-basis: 80%;
+
+  .container {
+    background-color: white;
+
+    .header {
+      background: rgb(127, 48, 204);
+      color: white;
+
+      .name, .premiere {
+        cursor: pointer;
+      }
+
+      & > div {
+        position: relative;
+
+        .arrow {
+          position: absolute;
+          right: 10px;
+          border: solid white;
+          border-width: 0 3px 3px 0;
+          display: inline-block;
+          padding: 3px;
+          &.selected {
+            border-color: rgb(236, 134, 58);
+          }
+        }
+
+        .up {
+          transform: rotate(-135deg);
+          -webkit-transform: rotate(-135deg);
+        }
+
+        .down {
+          bottom: 10px;
+          transform: rotate(45deg);
+          -webkit-transform: rotate(45deg);
+        }
+      }
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: nowrap;
+    }
+
+    .col {
+      flex-basis: 16%;
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+    }
+
+    .name {
+      text-align: left;
+      flex-basis: 51%;
+      padding-left: 20px;
+    }
+
+    .genres {
+      font-size: 15px;
+      padding-top: 3px;
+      div {
+        display: inline-block;
+        border-radius: 15px;
+        padding: 3px 11px;
+        margin-right: 10px;
+        color: white;
+
+        &[data-genre="horror"] {
+          background: rgb(62, 62, 62);
+        }
+        &[data-genre="drama"] {
+          background: rgb(171, 79, 208);
+        }
+        &[data-genre="crime"] {
+          background: rgb(136, 51, 216);
+        }
+        &[data-genre="tragedy"] {
+          background: rgb(227, 63, 70);
+        }
+        &[data-genre="dark comedy"] {
+          background: rgb(111, 111, 111);
+        }
+      }
+    }
+  }
+}

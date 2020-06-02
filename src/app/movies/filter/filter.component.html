@@ -1,0 +1,20 @@
+<div>
+  <input placeholder="Name" #filterName />
+  <img src="./assets/search.svg" />
+</div>
+
+<div>
+  <select (change)="updateGenre($event)">
+    <option value="">Genre</option>
+    <option *ngFor="let genre of genres" [value]="genre">{{ genre }}</option>
+  </select>
+  <img src="./assets/arrow-down.svg" />
+</div>
+
+<div>
+  <select (change)="updatePremiere($event)">
+    <option value="">Premiere Year</option>
+    <option *ngFor="let year of years" [value]="year">{{ year }}</option>
+  </select>
+  <img src="./assets/arrow-down.svg" />
+</div>

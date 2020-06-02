@@ -1,0 +1,352 @@
+[
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "The Terror",
+    "season": "3",
+    "network": ["AMC"],
+    "premiere": "20.10.2019",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "4",
+    "network": ["AMC", "Netflix"],
+    "premiere": "05.11.2019",
+    "genres": ["crime", "tragedy"]
+  },
+  {
+    "name": "Preacher",
+    "season": "5",
+    "network": ["AMC"],
+    "premiere": "01.01.2019",
+    "genres": ["dark comedy", "drama"]
+  },
+  {
+    "name": "The Terror",
+    "season": "2",
+    "network": ["AMC"],
+    "premiere": "10.01.2018",
+    "genres": ["horror", "drama"]
+  },
+  {
+    "name": "Better Call Saul",
+    "season": "3",
+    "network": ["AMC", "Netflix"],
+    "premiere": "02.04.2018",
+    "genres": ["crime", "tragedy"]
+  }
+]
